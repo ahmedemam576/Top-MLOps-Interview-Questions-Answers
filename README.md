@@ -1,4 +1,4 @@
-# Top 50 MLOps Interview Questions and Answers
+# Top 35 MLOps Interview Questions and Answers
 
 <div align="center">
   <img src="https://img.shields.io/badge/MLOps-Interview%20Questions-blue" alt="MLOps Interview Questions">
