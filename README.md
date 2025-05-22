@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/MLOps-Interview%20Questions-blue" alt="MLOps Interview Questions">
-  <img src="https://img.shields.io/badge/Questions-50-green" alt="50 Questions">
+  <img src="https://img.shields.io/badge/Questions-35-green" alt="50 Questions">
   <img src="https://img.shields.io/badge/Level-Beginner%20to%20Advanced-orange" alt="Beginner to Advanced">
   <img src="https://img.shields.io/badge/Big%20Tech-Focused-red" alt="Big Tech Focused">
 </div>
