@@ -11,7 +11,7 @@
 
 ## 📋 Introduction
 
-Welcome to the ultimate collection of MLOps interview questions and answers! This repository contains a carefully curated list of the 50 most frequently asked MLOps interview questions, with special emphasis on those commonly asked by big tech companies like Google, Amazon, Microsoft, Facebook, and Netflix.
+Welcome to the ultimate collection of MLOps interview questions and answers! This repository contains a carefully curated list of the 35 most frequently asked MLOps interview questions, with special emphasis on those commonly asked by big tech companies like Google, Amazon, Microsoft, Facebook, and Netflix.
 
 ### What is MLOps?
 
